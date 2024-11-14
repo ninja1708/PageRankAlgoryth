@@ -39,9 +39,9 @@ Aplikacja posiada prosty interfejs użytkownika, który umożliwia:
 - Wyświetlenie wyników wyszukiwania z posortowanymi stronami i ich wartościami PageRank.
 - Wyświetlenie wizualizacji grafu w oddzielnym oknie.
 ## Jak działa aplikacja?
--- Przeszukiwanie stron: Po wprowadzeniu słowa kluczowego, program wyszukuje strony zawierające dane słowo i wyświetla je w oknie.
--- Wizualizacja grafu: Klikając przycisk "Pokaż graf", użytkownik może zobaczyć interaktywny wykres, który przedstawia zależności między stronami internetowymi.
--- Zbliżanie/powiększanie: Umożliwia to lepsze przyjrzenie się szczegółom grafu, co jest przydatne przy większych sieciach.
+- Przeszukiwanie stron: Po wprowadzeniu słowa kluczowego, program wyszukuje strony zawierające dane słowo i wyświetla je w oknie.
+- Wizualizacja grafu: Klikając przycisk "Pokaż graf", użytkownik może zobaczyć interaktywny wykres, który przedstawia zależności między stronami internetowymi.
+- Zbliżanie/powiększanie: Umożliwia to lepsze przyjrzenie się szczegółom grafu, co jest przydatne przy większych sieciach.
 ## Wnioski
 Aplikacja jest użyteczna do analizy powiązań między stronami internetowymi, np. w kontekście oceny ich "ważności" przy pomocy algorytmu PageRank. Można ją rozbudować o dodatkowe funkcjonalności, takie jak analiza kategorii stron czy dodanie bardziej zaawansowanych algorytmów rankingowych.
 
