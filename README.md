@@ -1,7 +1,7 @@
 # Program do Wyszukiwania PageRank
 
 Jest to aplikacja GUI, która pozwala na przeszukiwanie strony internetowe za pomocą algorytmu PageRank oraz wizualizację grafu zależności pomiędzy różnymi stronami.Program napisany jest na 2 sposoby ze względu na przetestowanie czy nasza implementacja jest lepsza czy z biblioteki:
-- **PageRank_liberty.py**
+- **PageRank_library.py**
 - **PageRank_algorithm.py**
 
 ## Technologie
