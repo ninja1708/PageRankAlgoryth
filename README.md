@@ -47,5 +47,10 @@ Aplikacja posiada prosty interfejs użytkownika, który umożliwia:
 ## Wnioski
 Aplikacja jest użyteczna do analizy powiązań między stronami internetowymi, np. w kontekście oceny ich "ważności" przy pomocy algorytmu PageRank. Można ją rozbudować o dodatkowe funkcjonalności, takie jak analiza kategorii stron czy dodanie bardziej zaawansowanych algorytmów rankingowych.
 
-## Licencja
-Na razie brak licencji. Można wykorzystać kod na własny użytek lub dostosować go według własnych potrzeb.
+## Licencja OGÓLNA LICENCJA PUBLICZNA GNU
+### Wersja 3, 29 czerwca 2007 r.
+
+Copyright © 2007 Free Software Foundation, Inc.  
+<https://fsf.org/>
+Każdemu zezwala się na kopiowanie i rozpowszechnianie dosłownych kopii tego dokumentu licencyjnego, ale zmienianie go jest zabronione.
+---
